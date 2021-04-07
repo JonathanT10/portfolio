@@ -1,0 +1,21 @@
+
+h1{
+font-style: Mongolian Baiti;
+font-size: calc(2.375rem + 1.5vw);
+
+}
+
+body {
+    background-image: "home.jpg";
+  }
+
+.a {
+    color: #212529;
+    text-decoration: underline;
+}
+
+p1{
+    font-style: Mongolian Baiti;
+    font-size: calc(2.375rem + 1.5vw);
+}
+
