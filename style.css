@@ -1,21 +1,62 @@
 
-h1{
-font-style: Mongolian Baiti;
-font-size: calc(2.375rem + 1.5vw);
+/* 
+.title{
+    font-style: Mongolian Baiti;
+/* font-size: calc(2.375rem + 1.5vw); */
+/* color: #f8f9fa; */
+/* } */ 
+
+.title-color{
+    color: white;
 
 }
-
-body {
-    background-image: "home.jpg";
+h1.relative {
+    position: relative;
+    right: 200px;
+    border: 3px solid #73AD21;
   }
 
-.a {
-    color: #212529;
-    text-decoration: underline;
-}
-
-p1{
+p{
     font-style: Mongolian Baiti;
-    font-size: calc(2.375rem + 1.5vw);
+    font-size: 1000px;
+    color: white;
 }
 
+.card-body{
+    padding: 25px 50px 75px 100px;
+}
+
+
+.form-control{ 
+  
+    width: 50%; 
+}
+
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #1f1d1d;
+    text-align: center;
+    opacity: 26%;
+  }
+
+
+  img{
+      position: relative;
+      top: 10%;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .mb-3{
+      position: relative;
+      top: 10%;
+  }
