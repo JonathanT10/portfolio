@@ -60,3 +60,9 @@ p{
       position: relative;
       top: 10%;
   }
+
+  .fa-github:before {
+      align-items: center;
+      width: 300;
+      height: 400;
+  }
